@@ -1,0 +1,22 @@
+{
+  "name": "angular-translate-tool",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Sean ZHANG <sean.zhang@d1m.cn>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-gettext": "^2.3.10",
+    "bootstrap": "^3.3.7"
+  }
+}

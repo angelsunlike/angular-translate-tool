@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: index.html:15
+msgid "register.birthday"
+msgstr ""
+
+#: index.html:12
+msgid "register.email"
+msgstr ""
+
+#: index.html:11
+msgid "register.name"
+msgstr ""
+
+#: index.html:13
+msgid "register.phone"
+msgstr ""
+
+#: index.html:14
+msgid "register.summary"
+msgstr ""
